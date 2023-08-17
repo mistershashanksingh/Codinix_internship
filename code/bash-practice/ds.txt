@@ -1,0 +1,5 @@
+Name, Age, Gender
+Alice, 25, F
+Bob, 32, M
+Charlie, 40, M
+
